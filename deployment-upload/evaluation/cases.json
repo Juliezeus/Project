@@ -1,0 +1,12 @@
+[
+  {"id":"learning-tech-part-time","question":"I am 0.6 FTE in Technology. What is my learning budget?","required_sections":["BEN02","BU03"],"review_notes":"$2500 financial-year cap; no FTE reduction; approval and remaining budget conditions."},
+  {"id":"wellbeing-tech","question":"What wellbeing allowance does a Technology employee receive?","required_sections":["BEN01","BU03"],"review_notes":"$840 full-year at 1.0 FTE; personal amount needs FTE and covered dates."},
+  {"id":"annual-ops","question":"How much notice for annual leave in Customer Operations?","required_sections":["LEA01","BU02"],"review_notes":"Six weeks; people leader and workforce planning; shorter-notice exception."},
+  {"id":"annual-release","question":"Technology annual leave from 10 to 20 November: whose approval is needed?","required_sections":["LEA01","BU02"],"review_notes":"Engineering Director plus standard approvals; clarify year if material."},
+  {"id":"transfer-learning","question":"Moving from Corporate to Technology, how does my learning budget change?","required_sections":["BEN02","BU03","BU05"],"review_notes":"Greater cap, not summed; prior spending and commitments count."},
+  {"id":"bonus-tech","question":"What bonus target applies to G3 Technology employees?","required_sections":["PAY02","REW01","REW02","REW03","BU04"],"review_notes":"12% standard target; not a guaranteed award; contract caveat."},
+  {"id":"bonus-transfer","question":"How does moving from Corporate to Technology affect my bonus?","required_sections":["REW01","REW02","BU04","BU05"],"review_notes":"Split accrual at transfer date; grade and history needed; no double FTE adjustment."},
+  {"id":"parental-part-time","question":"Do part-time Technology employees get fewer weeks of parental leave?","required_sections":["LEA03"],"review_notes":"No second reduction in weeks; own part-time base pay; qualifying service and category apply."},
+  {"id":"personal-care","question":"Do personal and carer leave use separate balances?","required_sections":["LEA02"],"review_notes":"One shared balance."},
+  {"id":"unknown-fte","question":"I work three days per week. What is my wellbeing entitlement?","required_sections":["BEN01","BU03"],"review_notes":"Do not assume 0.6 FTE; clarify hours, BU and relevant period for personal amount."}
+]
